@@ -36,4 +36,4 @@ Quesions regarding database tables
 
 17. Can admins be only selected by other admins?
 
-18. Should there be a seperate databse for Personel Bio and Surveys respectivel.y?
+18. Should there be a seperate databse for Personel Bio and Surveys respectively.?
