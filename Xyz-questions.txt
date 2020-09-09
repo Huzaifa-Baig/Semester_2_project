@@ -35,3 +35,5 @@ Quesions regarding database tables
 16. Can students/faculty get registerd as admins if they aply for it?
 
 17. Can admins be only selected by other admins?
+
+18. Should there be a seperate databse for Personel Bio and Surveys respectivel.y?
