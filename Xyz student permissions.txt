@@ -1,0 +1,36 @@
+Student Functions:
+
+Request to be added to new survey.
+Request to be added to surveys of other facualty.
+Request new surverys to be added.
+Request own custom made survey to be added to roster.
+Request to be aded to facualty.?
+Request creds. to be edited / updated(Due to technical problems).
+
+Report other Student for Xyz reason.
+Report facualty for Xyz behaviour.
+
+Perform Survey.
+
+Submit Survey.
+Submit proof of reported personel.
+
+Student permissions:
+
+-Can view and perform any / all surveys.
+
+-Can view survey result from page.
+
+-Can view student status.
+
+-Can view facualty(Teacher) availability.
+
+-Can access and alter creds.
+
+-Can report other students for Xyz reason.
+
+-Can report facualty for Xyz reason.
+
+-Can give proof to admins upon request using email or portal?
+
+-Can request to made a facualty.
