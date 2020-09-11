@@ -1,0 +1,60 @@
+Admin Functions:
+
+add student.
+add facualty.
+add survey.
+add students to other surveys.
+add facualty to other surveys.
+
+edit/Update student creds(upon request due to technical problems).
+edit student surveys status?
+edit student surveys?
+edit/Update facualty creds(upon request due to technical problems).
+edit admin creds.?
+
+reset survey satuts of Xyz(Single individual)?
+reset survey status of all compromised data(single survey).
+reset survey status all across.
+
+report other admins for Xyz reason.
+
+Check reported students.
+Check reported facualty.
+
+Requset proof for the reported personel.
+
+Verify reported faculties / students proof for review.
+ 
+remove student.
+remove facualty.
+remove survey.
+remove student from survey.
+remove facualty from survey.
+remove admins.
+
+Make new admins from pre-existsting facualty/staff.
+
+Perfrom Survey.
+Submit Survey.
+
+Admin permission:
+
+-can view and complete add / remove requests.
+
+-can add / remove students / facualty from institue website / portal (effective termination/rustication) after confirmation of removal.
+
+-can access and alter student creds. upon request.
+
+-can access and alter facualty crerds. upon request.
+
+-can view survey results.
+
+-can access and alter admin(own only) creds.
+
+-can view other admins status.
+
+-can remove others admins after head of institues permission / request.
+
+-can report other admins for Xyz reason.
+
+-can verify proof of reported personel and institute students.

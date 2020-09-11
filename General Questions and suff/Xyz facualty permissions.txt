@@ -1,0 +1,49 @@
+Facualty Functions:
+
+Add students from other subject(other surveys to participate).?
+Add students to new subject(New surveys).?
+
+Make request for new surveys(open source/student made) to be added to roster.
+Make new surveys(Teachers only).?
+
+Request reset survey(1 or many) for correction purposes. 
+Request to be made an admin.? 
+Request for creds. to be updated accordingly(Due to technical problems).
+
+Reporting student for Xyz reason.
+Reporting facualty for Xyz reson.
+
+Forward requests for new surveys to be added from students.
+Forward newly made survey to be added.
+
+Accept student request for custom surveys.?
+Accept / reject (to forward) student requests to being added to new survey.
+
+Perform survey.
+
+Submit Survey.
+Submit Proof of reported personel.
+
+Facualty Permissions:
+
+-Can view and perform any / all surveys.
+
+-Can view survey result from page
+
+-Can view student status?
+
+-Can view other faculty status.
+
+-Can access and alter creds.
+
+-Can report student for Xyz reason.
+
+-Can report facualty for Xyz reason.
+
+-Can give proof of reported personel by using email or portal.
+
+-Can request survey.
+
+-Can request to be added to other facualty survey.
+
+-Can put in letter of resignation for job termination.? 

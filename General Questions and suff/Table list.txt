@@ -1,0 +1,21 @@
+Tables
+
+1. admin creds.
+2. facualty creds.
+3. student creds.
+
+survey_1_participants
+survey_2_participants
+survey_3_participants
+survey_4_participants
+survey_5_participants
+survey_6_participants
+
+4. compitition participants.
+5. compitition winners.
+6. student surveys.
+7. facualty surveys.
+
+2 admins
+4 facualty (1 teacher, 1 sub-teacher, 2 cleaners)
+10 students
